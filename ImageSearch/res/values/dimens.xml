@@ -1,0 +1,22 @@
+<resources>
+
+    <!--Layout params as per design -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    
+    <dimen name="edit_text_height">45dp</dimen>
+    <dimen name="edit_text_margin">10dp</dimen>
+    <dimen name="edit_text_padding_left">10dp</dimen>
+    
+    <dimen name="edit_parent_margin">5dp</dimen>
+    
+    <dimen name="list_linear_margin">10dp</dimen>
+    
+    
+    <dimen name="feed_item_margin">5dp</dimen>
+    <dimen name="feed_item_padding">5dp</dimen>
+
+    <dimen name="feed_item_corner_radius">3dp</dimen>
+    <dimen name="feed_item_border_width">1dp</dimen>
+
+</resources>
